@@ -1,5 +1,5 @@
 # Core-model-overflow-metabolism
-The Mathematica notebooks and Excel files listed below contain data and code that are used for numerical implementations of the core model. These implementations create figures in the preprint "Maarten J. Droste, Robert Planqué, Frank J. Bruggeman - On the conditions for shifts in metabolic strategies ".
+The Mathematica notebooks and Excel files listed below contain data and code that are used for numerical implementations of the core model. These implementations create figures in the preprint "Maarten J. Droste, Robert Planqué, Frank J. Bruggeman - On the conditions for shifts in metabolic strategies ". The preprint can be found on bioRxiv: https://www.biorxiv.org/content/10.1101/2025.10.03.680276v1.
 
 - **Yeast core model.nb**: Mathematica code for implementation of the core model for the yeast _Saccharomyces cerevisiae_. Used to create Figures 5, S2, S3, S6, S7 and compute proteome efficiencies.
 - **Yeast core model for total ATP demand.nb**: Mathematica code for implementation of the core model for the yeast _Saccharomyces cerevisiae_ with the Total ATP demand. Used to create Figure S4 and compute proteome efficiencies.
